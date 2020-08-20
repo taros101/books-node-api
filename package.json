@@ -20,7 +20,7 @@
     "@types/helmet": "0.0.44",
     "@types/jwt-then": "^1.0.0",
     "@types/mongoose": "^5.5.16",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
